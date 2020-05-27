@@ -28,3 +28,18 @@ print(userAgeD / myNumberD)
 
 var myBoolean = false
 print(myBoolean == false)
+
+// Part 2
+
+var myString : String = "Taco"
+var aNumber : Int = 10
+
+let stringNumber = String(20)
+print(stringNumber)
+
+let myVariable : String
+myVariable = "taco"
+let upperVariable = myVariable.uppercased()
+print(myVariable, upperVariable)
+
+
